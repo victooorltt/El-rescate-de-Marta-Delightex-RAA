@@ -37,5 +37,5 @@ https://youtu.be/V5TtYOZeYGY
 ## Ayuda de la IA
 
 Para este proyecto la IA ha servido de gran ayuda, ya que mi juego tenía mucho diálogo y para formar conversaciones entre las distintas escenas
-de manera fluida, fue de gran ayuda, ayudándome a redactar conversaciones y darme algunas ideas de como animar las escenas. El código evidentemente
+de manera fluida, ayudándome a redactar conversaciones y darme algunas ideas de como animar las escenas. El código evidentemente
 fue totalmente escrito por mi.
