@@ -20,9 +20,9 @@ acontecimientos narrativos.
 
 ## Proyecto Delightex
 
-La URL del proyecto se encuentra también en el archivo:
+La URL del proyecto (se encuentra también en el archivo `url-video-juego.txt`):
 
-`url-video-juego.txt`
+https://edu.delightex.com/BJH-WZR
 
 El código QR está disponible en:
 
